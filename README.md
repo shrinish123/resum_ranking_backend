@@ -15,9 +15,9 @@ assigns a relevancy score to each resume and also responds with the details of t
 ```bash
  git clone https://github.com/<your-github-username>/resume_ranking_backend.git
 ```
-* Change directory to Mumble 
+* Change directory to resume_ranking_backend
  ```bash
- cd  Mumble
+ cd  resume_ranking_backend
  ```
 * Create a virtual environment
  ```bash
