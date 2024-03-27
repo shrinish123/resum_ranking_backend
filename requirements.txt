@@ -29,6 +29,7 @@ fsspec==2024.2.0
 greenlet==3.0.3
 grpcio==1.60.1
 grpcio-tools==1.60.1
+gunicorn==21.2.0
 h11==0.14.0
 h2==4.1.0
 hpack==4.0.0
@@ -97,6 +98,7 @@ spacy-loggers==1.0.5
 SQLAlchemy==2.0.27
 sqlparse==0.4.4
 srsly==2.4.8
+summa==1.2.0
 tenacity==8.2.3
 thinc==8.2.3
 tiktoken==0.6.0
